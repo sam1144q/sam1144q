@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @sam1144q
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 💫 About Me:
+👋 Hi, I'm Sumeet Mishra!<br><br>I'm passionate about crafting beautiful and intuitive web experiences, with a focus on UI/UX design and Full-Stack development. My journey started with a deep interest in how users interact with digital products, and now I’m expanding my skills to build end-to-end solutions.<br><br>🔧 Technologies I Work With:<br>Front-End Development: HTML, CSS, JavaScript, React.js, Vue.js, Tailwind CSS<br>Back-End Development: Node.js, Express.js, Python, Django<br>Databases: MongoDB, MySQL, PostgreSQL<br>Version Control & Collaboration: Git, GitHub, GitLab, Bitbucket<br>UI/UX Design Tools: Figma, Adobe XD, Sketch, InVision, Balsamiq<br>Other: REST APIs, GraphQL, Webpack, Docker<br>🚀 Current Learning Focus:<br>Improving my understanding of UI/UX principles to design better user experiences.<br>Diving deeper into Full-Stack development, integrating front-end and back-end technologies.<br>Experimenting with serverless architectures and cloud deployment.<br>📈 Projects I've Worked On:<br>Personal Portfolio: A responsive, user-friendly personal portfolio showcasing my projects and skills.<br>Task Management App: A full-stack to-do app built with React.js and Node.js to manage daily tasks.<br>E-commerce Website: Designed a fully functional e-commerce platform with React, Node.js, and MongoDB.<br>💡 I'm open to:<br>Contributing to open-source projects.<br>Collaborating with like-minded developers to create innovative solutions.<br>Building my skills and learning new technologies.<br>Feel free to check out my repositories for some cool projects I’ve worked on!
 
-<!---
-sam1144q/sam1144q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sam1144q&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sam1144q&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1144q&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sam1144q&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
